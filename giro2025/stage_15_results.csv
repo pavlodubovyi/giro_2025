@@ -1,0 +1,171 @@
+rider_name,rider_url,rider_number,team_name,team_url,rank,status,age,nationality,time,bonus,pcs_points,uci_points
+VERONA Carlos,rider/carlos-verona,118,Lidl - Trek,team/lidl-trek-2025,1.0,DF,32,ES,5:15:41,0:00:16,80,0.0
+STORK Florian,rider/florian-stork,195,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,2.0,DF,28,DE,5:16:03,0:00:06,50,130.0
+SCARONI Christian,rider/christian-scaroni,228,XDS Astana Team,team/xds-astana-team-2025,3.0,DF,27,IT,5:16:04,0:00:04,35,95.0
+BARDET Romain,rider/romain-bardet,161,Team Picnic PostNL,team/team-picnic-postnl-2025,4.0,DF,34,FR,5:16:04,0:00:00,25,80.0
+PRODHOMME Nicolas,rider/nicolas-prodhomme,57,Decathlon AG2R La Mondiale Team,team/decathlon-ag2r-la-mondiale-2025,5.0,DF,28,FR,5:16:04,0:00:00,18,60.0
+ZANA Filippo,rider/filippo-zana,158,Team Jayco AlUla,team/team-jayco-alula-2025,6.0,DF,26,IT,5:16:04,0:00:02,15,45.0
+GAROFOLI Gianmarco,rider/gianmarco-garofoli,144,Soudal Quick-Step,team/soudal-quick-step-2025,7.0,DF,22,IT,5:16:07,0:00:04,12,40.0
+FIORELLI Filippo,rider/filippo-fiorelli,211,VF Group - Bardiani CSF - Faizanè,team/vf-group-bardiani-csf-faizane-2025,8.0,DF,30,IT,5:16:10,0:00:00,10,35.0
+CARUSO Damiano,rider/damiano-caruso,33,Bahrain - Victorious,team/bahrain-victorious-2025,9.0,DF,37,IT,5:16:10,0:00:00,8,30.0
+POOLE Max,rider/max-poole,166,Team Picnic PostNL,team/team-picnic-postnl-2025,10.0,DF,22,GB,5:16:10,0:00:00,6,25.0
+RUBIO Einer,rider/einer-rubio,127,Movistar Team,team/movistar-team-2025,11.0,DF,27,CO,5:16:10,0:00:00,5,20.0
+GEE Derek,rider/derek-gee,101,Israel - Premier Tech,team/israel-premier-tech-2025,12.0,DF,27,CA,5:16:10,0:00:00,4,15.0
+CARAPAZ Richard,rider/richard-carapaz,61,EF Education - EasyPost,team/ef-education-easypost-2025,13.0,DF,31,EC,5:16:10,0:00:00,3,10.0
+YATES Simon,rider/simon-yates,188,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,14.0,DF,32,GB,5:16:10,0:00:00,2,5.0
+VOISARD Yannis,rider/yannis-voisard,196,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,15.0,DF,26,CH,5:16:10,0:00:00,1,2.0
+POELS Wout,rider/wout-poels,227,XDS Astana Team,team/xds-astana-team-2025,16.0,DF,37,NL,5:16:10,0:00:00,0,0.0
+DEL TORO Isaac,rider/isaac-del-toro,204,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,17.0,DF,21,MX,5:16:10,0:00:00,0,0.0
+PIGANZOLI Davide,rider/davide-piganzoli,171,Team Polti VisitMalta,team/team-polti-visitmalta-2025,18.0,DF,22,IT,5:16:10,0:00:00,0,0.0
+BERNAL Egan,rider/egan-bernal,81,INEOS Grenadiers,team/ineos-grenadiers-2025,19.0,DF,28,CO,5:16:10,0:00:00,0,0.0
+STORER Michael,rider/michael-storer,191,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,20.0,DF,28,AU,5:16:10,0:00:00,0,0.0
+ARENSMAN Thymen,rider/thymen-arensman,82,INEOS Grenadiers,team/ineos-grenadiers-2025,21.0,DF,25,NL,5:16:10,0:00:00,0,0.0
+TIBERI Antonio,rider/antonio-tiberi,31,Bahrain - Victorious,team/bahrain-victorious-2025,22.0,DF,23,IT,5:16:10,0:00:00,0,0.0
+MCNULTY Brandon,rider/brandon-mcnulty,206,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,23.0,DF,27,US,5:16:10,0:00:00,0,0.0
+AYUSO Juan,rider/juan-ayuso-pesquera,201,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,24.0,DF,22,ES,5:16:10,0:00:00,0,0.0
+QUINTANA Nairo,rider/nairo-quintana,121,Movistar Team,team/movistar-team-2025,25.0,DF,35,CO,5:16:10,0:00:00,0,0.0
+MAJKA Rafał,rider/rafal-majka,205,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,26.0,DF,35,PL,5:16:10,0:00:00,0,0.0
+YATES Adam,rider/adam-yates,208,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,27.0,DF,32,GB,5:16:10,0:00:00,0,0.0
+BILBAO Pello,rider/pello-bilbao,32,Bahrain - Victorious,team/bahrain-victorious-2025,28.0,DF,35,ES,5:16:10,0:00:00,0,0.0
+FRIGO Marco,rider/marco-frigo,103,Israel - Premier Tech,team/israel-premier-tech-2025,29.0,DF,25,IT,5:16:10,0:00:00,0,0.0
+PELLIZZARI Giulio,rider/giulio-pellizzari,7,Red Bull - BORA - hansgrohe,team/red-bull-bora-hansgrohe-2025,30.0,DF,21,IT,5:17:40,0:00:00,0,0.0
+ROGLIČ Primož,rider/primoz-roglic,1,Red Bull - BORA - hansgrohe,team/red-bull-bora-hansgrohe-2025,31.0,DF,35,SI,5:17:40,0:00:00,0,0.0
+ULISSI Diego,rider/diego-ulissi,221,XDS Astana Team,team/xds-astana-team-2025,32.0,DF,35,IT,5:17:40,0:00:00,0,0.0
+PIDCOCK Thomas,rider/thomas-pidcock,131,Q36.5 Pro Cycling Team,team/q365-pro-cycing-team-2025,33.0,DF,25,GB,5:17:40,0:00:00,0,0.0
+KNOX James,rider/james-knox,146,Soudal Quick-Step,team/soudal-quick-step-2025,34.0,DF,29,GB,5:17:40,0:00:00,0,0.0
+MARTÍNEZ Daniel Felipe,rider/daniel-felipe-martinez,5,Red Bull - BORA - hansgrohe,team/red-bull-bora-hansgrohe-2025,35.0,DF,29,CO,5:17:50,0:00:00,0,0.0
+LEMMEN Bart,rider/bart-lemmen,186,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,36.0,DF,29,NL,5:17:54,0:00:00,0,0.0
+ARRIETA Igor,rider/igor-arrieta-lizarraga,202,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,37.0,DF,22,ES,5:19:14,0:00:00,0,0.0
+SVESTAD-BÅRDSENG Embret,rider/embret-svestad-bardseng,27,Arkéa - B&B Hotels,team/arkea-b-b-hotels-2025,38.0,DF,22,NO,5:20:57,0:00:00,0,0.0
+TONELLI Alessandro,rider/alessandro-tonelli,178,Team Polti VisitMalta,team/team-polti-visitmalta-2025,39.0,DF,32,IT,5:23:24,0:00:00,0,0.0
+ROCHAS Rémy,rider/remy-rochas,78,Groupama - FDJ,team/groupama-fdj-2025,40.0,DF,29,FR,5:23:24,0:00:00,0,0.0
+STEINHAUSER Georg,rider/georg-steinhauser,68,EF Education - EasyPost,team/ef-education-easypost-2025,41.0,DF,23,DE,5:23:40,0:00:00,0,0.0
+CASTROVIEJO Jonathan,rider/jonathan-castroviejo,83,INEOS Grenadiers,team/ineos-grenadiers-2025,42.0,DF,38,ES,5:23:40,0:00:00,0,0.0
+CEPEDA Jefferson Alexander,rider/jefferson-alexander-cepeda,63,EF Education - EasyPost,team/ef-education-easypost-2025,43.0,DF,26,EC,5:23:40,0:00:00,0,0.0
+LEEMREIZE Gijs,rider/gijs-leemreize,164,Team Picnic PostNL,team/team-picnic-postnl-2025,44.0,DF,25,NL,5:26:35,0:00:00,0,0.0
+HOWSON Damien,rider/damien-howson,134,Q36.5 Pro Cycling Team,team/q365-pro-cycing-team-2025,45.0,DF,32,AU,5:26:35,0:00:00,0,0.0
+KELDERMAN Wilco,rider/wilco-kelderman,183,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,46.0,DF,34,NL,5:26:35,0:00:00,0,0.0
+FORMOLO Davide,rider/davide-formolo,125,Movistar Team,team/movistar-team-2025,47.0,DF,32,IT,5:26:35,0:00:00,0,0.0
+GENIETS Kevin,rider/kevin-geniets,74,Groupama - FDJ,team/groupama-fdj-2025,48.0,DF,28,LU,5:26:35,0:00:00,0,0.0
+ALEOTTI Giovanni,rider/giovanni-aleotti,2,Red Bull - BORA - hansgrohe,team/red-bull-bora-hansgrohe-2025,49.0,DF,26,IT,5:27:32,0:00:00,0,0.0
+LASTRA Jonathan,rider/jonathan-lastra,43,Cofidis,team/cofidis-2025,50.0,DF,31,ES,5:28:04,0:00:00,0,0.0
+AULAR Orluis,rider/orluis-aular,122,Movistar Team,team/movistar-team-2025,51.0,DF,28,VE,5:28:04,0:00:00,0,0.0
+DE PRETTO Davide,rider/davide-de-pretto,153,Team Jayco AlUla,team/team-jayco-alula-2025,52.0,DF,23,IT,5:28:04,0:00:00,0,0.0
+HUYS Laurens,rider/laurens-huys,24,Arkéa - B&B Hotels,team/arkea-b-b-hotels-2025,53.0,DF,26,BE,5:28:04,0:00:00,0,0.0
+TJØTTA Martin,rider/martin-tjotta,28,Arkéa - B&B Hotels,team/arkea-b-b-hotels-2025,54.0,DF,24,NO,5:28:04,0:00:00,0,0.0
+PETILLI Simone,rider/simone-petilli,94,Intermarché - Wanty,team/intermarche-wanty-2025,55.0,DF,32,IT,5:28:04,0:00:00,0,0.0
+ZAMBANINI Edoardo,rider/edoardo-zambanini,38,Bahrain - Victorious,team/bahrain-victorious-2025,56.0,DF,24,IT,5:28:04,0:00:00,0,0.0
+PACHER Quentin,rider/quentin-pacher,76,Groupama - FDJ,team/groupama-fdj-2025,57.0,DF,33,FR,5:28:04,0:00:00,0,0.0
+BAIS Mattia,rider/mattia-bais,173,Team Polti VisitMalta,team/team-polti-visitmalta-2025,58.0,DF,28,IT,5:28:04,0:00:00,0,0.0
+MASNADA Fausto,rider/fausto-masnada,226,XDS Astana Team,team/xds-astana-team-2025,59.0,DF,31,IT,5:28:04,0:00:00,0,0.0
+FORTUNATO Lorenzo,rider/lorenzo-fortunato,223,XDS Astana Team,team/xds-astana-team-2025,60.0,DF,29,IT,5:28:04,0:00:00,0,0.0
+TRATNIK Jan,rider/jan-tratnik,8,Red Bull - BORA - hansgrohe,team/red-bull-bora-hansgrohe-2025,61.0,DF,35,SI,5:28:04,0:00:00,0,0.0
+FUGLSANG Jakob,rider/jakob-fuglsang,104,Israel - Premier Tech,team/israel-premier-tech-2025,62.0,DF,40,DK,5:28:04,0:00:00,0,0.0
+HAMILTON Chris,rider/chris-hamilton,163,Team Picnic PostNL,team/team-picnic-postnl-2025,63.0,DF,30,AU,5:28:04,0:00:00,0,0.0
+HARPER Chris,rider/chris-harper,151,Team Jayco AlUla,team/team-jayco-alula-2025,64.0,DF,30,AU,5:28:04,0:00:00,0,0.0
+GUGLIELMI Simon,rider/simon-guglielmi,23,Arkéa - B&B Hotels,team/arkea-b-b-hotels-2025,65.0,DF,27,FR,5:28:04,0:00:00,0,0.0
+HAMILTON Lucas,rider/lucas-hamilton,84,INEOS Grenadiers,team/ineos-grenadiers-2025,66.0,DF,29,AU,5:28:04,0:00:00,0,0.0
+SAMITIER Sergio,rider/sergio-samitier,48,Cofidis,team/cofidis-2025,67.0,DF,29,ES,5:28:04,0:00:00,0,0.0
+DONOVAN Mark,rider/mark-donovan,133,Q36.5 Pro Cycling Team,team/q365-pro-cycing-team-2025,68.0,DF,26,GB,5:28:04,0:00:00,0,0.0
+CONCI Nicola,rider/nicola-conci,222,XDS Astana Team,team/xds-astana-team-2025,69.0,DF,28,IT,5:28:04,0:00:00,0,0.0
+WARBASSE Larry,rider/lawrence-warbasse,197,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,70.0,DF,34,US,5:28:04,0:00:00,0,0.0
+MEINTJES Louis,rider/louis-meintjes,91,Intermarché - Wanty,team/intermarche-wanty-2025,71.0,DF,33,ZA,5:28:04,0:00:00,0,0.0
+MARTINELLI Alessio,rider/alessio-martinelli,215,VF Group - Bardiani CSF - Faizanè,team/vf-group-bardiani-csf-faizane-2025,72.0,DF,24,IT,5:28:04,0:00:00,0,0.0
+KRUIJSWIJK Steven,rider/steven-kruijswijk,185,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,73.0,DF,37,NL,5:28:04,0:00:00,0,0.0
+HOULE Hugo,rider/hugo-houle,106,Israel - Premier Tech,team/israel-premier-tech-2025,74.0,DF,34,CA,5:28:04,0:00:00,0,0.0
+CATTANEO Mattia,rider/mattia-cattaneo,142,Soudal Quick-Step,team/soudal-quick-step-2025,75.0,DF,34,IT,5:28:04,0:00:00,0,0.0
+KONRAD Patrick,rider/patrick-konrad,113,Lidl - Trek,team/lidl-trek-2025,76.0,DF,33,AT,5:28:04,0:00:00,0,0.0
+CEPEDA Jefferson Alveiro,rider/jefferson-cepeda-hernandez,124,Movistar Team,team/movistar-team-2025,77.0,DF,29,EC,5:28:04,0:00:00,0,0.0
+VENDRAME Andrea,rider/andrea-vendrame,58,Decathlon AG2R La Mondiale Team,team/decathlon-ag2r-la-mondiale-2025,78.0,DF,30,IT,5:36:49,0:00:00,0,0.0
+MOSCON Gianni,rider/gianni-moscon,6,Red Bull - BORA - hansgrohe,team/red-bull-bora-hansgrohe-2025,79.0,DF,31,IT,5:36:49,0:00:00,0,0.0
+VINE Jay,rider/jay-vine,207,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,80.0,DF,29,AU,5:36:49,0:00:00,0,0.0
+VAN BAARLE Dylan,rider/dylan-van-baarle,187,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,81.0,DF,33,NL,5:40:35,0:00:00,0,0.0
+CLARKE Simon,rider/simon-clarke,102,Israel - Premier Tech,team/israel-premier-tech-2025,82.0,DF,38,AU,5:40:35,0:00:00,0,0.0
+GERMANI Lorenzo,rider/lorenzo-germani,75,Groupama - FDJ,team/groupama-fdj-2025,83.0,DF,23,IT,5:40:35,0:00:00,0,0.0
+PEREZ Anthony,rider/anthony-perez,47,Cofidis,team/cofidis-2025,84.0,DF,34,FR,5:40:35,0:00:00,0,0.0
+DEBEAUMARCHÉ Nicolas,rider/nicolas-debeaumarche,42,Cofidis,team/cofidis-2025,85.0,DF,27,FR,5:40:35,0:00:00,0,0.0
+AZPARREN Xabier Mikel,rider/xabier-mikel-azparren-irurzun,132,Q36.5 Pro Cycling Team,team/q365-pro-cycing-team-2025,86.0,DF,26,ES,5:40:35,0:00:00,0,0.0
+HONORÉ Mikkel Frølich,rider/mikkel-honore,65,EF Education - EasyPost,team/ef-education-easypost-2025,87.0,DF,28,DK,5:40:35,0:00:00,0,0.0
+GODON Dorian,rider/dorian-godon,55,Decathlon AG2R La Mondiale Team,team/decathlon-ag2r-la-mondiale-2025,88.0,DF,29,FR,5:40:35,0:00:00,0,0.0
+BARONCINI Filippo,rider/filippo-baroncini,203,UAE Team Emirates - XRG,team/uae-team-emirates-xrg-2025,89.0,DF,24,IT,5:40:35,0:00:00,0,0.0
+COVILI Luca,rider/luca-covili,212,VF Group - Bardiani CSF - Faizanè,team/vf-group-bardiani-csf-faizane-2025,90.0,DF,28,IT,5:40:35,0:00:00,0,0.0
+TAROZZI Manuele,rider/manuele-tarozzi,217,VF Group - Bardiani CSF - Faizanè,team/vf-group-bardiani-csf-faizane-2025,91.0,DF,26,IT,5:40:35,0:00:00,0,0.0
+BARRENETXEA Jon,rider/jon-barrenetxea-golzarri,123,Movistar Team,team/movistar-team-2025,92.0,DF,25,ES,5:40:35,0:00:00,0,0.0
+DOULL Owain,rider/owain-doull,64,EF Education - EasyPost,team/ef-education-easypost-2025,93.0,DF,32,GB,5:40:35,0:00:00,0,0.0
+TORRES Albert,rider/albert-torres,128,Movistar Team,team/movistar-team-2025,94.0,DF,35,ES,5:40:35,0:00:00,0,0.0
+BAIS Davide,rider/davide-bais,172,Team Polti VisitMalta,team/team-polti-visitmalta-2025,95.0,DF,27,IT,5:40:35,0:00:00,0,0.0
+BRENNER Marco,rider/marco-brenner,192,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,96.0,DF,22,DE,5:40:35,0:00:00,0,0.0
+RAFFERTY Darren,rider/darren-rafferty,66,EF Education - EasyPost,team/ef-education-easypost-2025,97.0,DF,21,IE,5:40:35,0:00:00,0,0.0
+STRONG Corbin,rider/corbin-strong,109,Israel - Premier Tech,team/israel-premier-tech-2025,98.0,DF,25,NZ,5:40:35,0:00:00,0,0.0
+OLDANI Stefano,rider/stefano-oldani,46,Cofidis,team/cofidis-2025,99.0,DF,27,IT,5:40:35,0:00:00,0,0.0
+GAUDU David,rider/david-gaudu,71,Groupama - FDJ,team/groupama-fdj-2025,100.0,DF,28,FR,5:40:35,0:00:00,0,0.0
+SHAW James,rider/james-shaw,67,EF Education - EasyPost,team/ef-education-easypost-2025,101.0,DF,28,GB,5:40:35,0:00:00,0,0.0
+BUSATTO Francesco,rider/francesco-busatto,92,Intermarché - Wanty,team/intermarche-wanty-2025,102.0,DF,22,IT,5:40:35,0:00:00,0,0.0
+TURNER Ben,rider/ben-turner,88,INEOS Grenadiers,team/ineos-grenadiers-2025,103.0,DF,25,GB,5:40:35,0:00:00,0,0.0
+TARLING Joshua,rider/joshua-tarling,87,INEOS Grenadiers,team/ineos-grenadiers-2025,104.0,DF,21,GB,5:40:35,0:00:00,0,0.0
+MIHOLJEVIĆ Fran,rider/fran-miholjevic,36,Bahrain - Victorious,team/bahrain-victorious-2025,105.0,DF,22,HR,5:40:35,0:00:00,0,0.0
+HERMANS Quinten,rider/quinten-hermans,12,Alpecin - Deceuninck,team/alpecin-deceuninck-2025,106.0,DF,29,BE,5:40:35,0:00:00,0,0.0
+JANSSENS Jimmy,rider/jimmy-janssens,14,Alpecin - Deceuninck,team/alpecin-deceuninck-2025,107.0,DF,35,BE,5:40:35,0:00:00,0,0.0
+PLAPP Luke,rider/luke-plapp,157,Team Jayco AlUla,team/team-jayco-alula-2025,108.0,DF,24,AU,5:41:02,0:00:00,0,0.0
+DEWULF Stan,rider/stan-dewulf,54,Decathlon AG2R La Mondiale Team,team/decathlon-ag2r-la-mondiale-2025,109.0,DF,27,BE,5:43:02,0:00:00,0,0.0
+MONIQUET Sylvain,rider/sylvain-moniquet,45,Cofidis,team/cofidis-2025,110.0,DF,27,BE,5:43:02,0:00:00,0,0.0
+KANTER Max,rider/max-kanter,224,XDS Astana Team,team/xds-astana-team-2025,111.0,DF,27,DE,5:43:02,0:00:00,0,0.0
+MOSCA Jacopo,rider/jacopo-mosca,115,Lidl - Trek,team/lidl-trek-2025,112.0,DF,31,IT,5:43:02,0:00:00,0,0.0
+VACEK Mathias,rider/mathias-vacek,117,Lidl - Trek,team/lidl-trek-2025,113.0,DF,22,CZ,5:43:02,0:00:00,0,0.0
+VADER Milan,rider/milan-vader,137,Q36.5 Pro Cycling Team,team/q365-pro-cycing-team-2025,114.0,DF,29,NL,5:43:05,0:00:00,0,0.0
+HEIDUK Kim,rider/kim-heiduk,85,INEOS Grenadiers,team/ineos-grenadiers-2025,115.0,DF,25,DE,5:43:07,0:00:00,0,0.0
+PLOWRIGHT Jensen,rider/jensen-plowright,18,Alpecin - Deceuninck,team/alpecin-deceuninck-2025,116.0,DF,25,AU,5:48:06,0:00:00,0,0.0
+MAGLI Filippo,rider/filippo-magli2,213,VF Group - Bardiani CSF - Faizanè,team/vf-group-bardiani-csf-faizane-2025,117.0,DF,26,IT,5:48:06,0:00:00,0,0.0
+THIJSSEN Gerben,rider/gerben-thijssen,96,Intermarché - Wanty,team/intermarche-wanty-2025,118.0,DF,26,BE,5:48:06,0:00:00,0,0.0
+KOOIJ Olav,rider/olav-kooij,184,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,119.0,DF,23,NL,5:48:06,0:00:00,0,0.0
+MAAS Jan,rider/jan-maas,44,Cofidis,team/cofidis-2025,120.0,DF,29,NL,5:48:06,0:00:00,0,0.0
+EPIS Giosuè,rider/giosue-epis,22,Arkéa - B&B Hotels,team/arkea-b-b-hotels-2025,121.0,DF,23,IT,5:48:06,0:00:00,0,0.0
+LONARDI Giovanni,rider/giovanni-lonardi,174,Team Polti VisitMalta,team/team-polti-visitmalta-2025,122.0,DF,28,IT,5:48:06,0:00:00,0,0.0
+ZANONCELLO Enrico,rider/enrico-zanoncello,218,VF Group - Bardiani CSF - Faizanè,team/vf-group-bardiani-csf-faizane-2025,123.0,DF,27,IT,5:48:06,0:00:00,0,0.0
+MAESTRI Mirco,rider/mirco-maestri,175,Team Polti VisitMalta,team/team-polti-visitmalta-2025,124.0,DF,33,IT,5:48:06,0:00:00,0,0.0
+BYSTRØM Sven Erik,rider/sven-erik-bystrom,72,Groupama - FDJ,team/groupama-fdj-2025,125.0,DF,33,NO,5:48:06,0:00:00,0,0.0
+DAVY Clément,rider/clement-davy,73,Groupama - FDJ,team/groupama-fdj-2025,126.0,DF,26,FR,5:48:06,0:00:00,0,0.0
+PALENI Enzo,rider/enzo-paleni,77,Groupama - FDJ,team/groupama-fdj-2025,127.0,DF,22,FR,5:48:06,0:00:00,0,0.0
+MILESI Lorenzo,rider/lorenzo-milesi,126,Movistar Team,team/movistar-team-2025,128.0,DF,23,IT,5:48:06,0:00:00,0,0.0
+LIEPIŅŠ Emīls,rider/emils-liepins,135,Q36.5 Pro Cycling Team,team/q365-pro-cycing-team-2025,129.0,DF,32,LV,5:48:06,0:00:00,0,0.0
+VAN HOECKE Gijs,rider/gijs-van-hoecke,98,Intermarché - Wanty,team/intermarche-wanty-2025,130.0,DF,33,BE,5:48:06,0:00:00,0,0.0
+MUÑOZ Francisco,rider/francisco-munoz-llana,176,Team Polti VisitMalta,team/team-polti-visitmalta-2025,131.0,DF,23,ES,5:48:06,0:00:00,0,0.0
+KUZMIN Anton,rider/anton-kuzmin,225,XDS Astana Team,team/xds-astana-team-2025,132.0,DF,28,KZ,5:48:06,0:00:00,0,0.0
+AFFINI Edoardo,rider/edoardo-affini,182,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,133.0,DF,28,IT,5:48:06,0:00:00,0,0.0
+HEPBURN Michael,rider/michael-hepburn,156,Team Jayco AlUla,team/team-jayco-alula-2025,134.0,DF,33,AU,5:48:06,0:00:00,0,0.0
+MOSCHETTI Matteo,rider/matteo-moschetti,136,Q36.5 Pro Cycling Team,team/q365-pro-cycing-team-2025,135.0,DF,28,IT,5:48:06,0:00:00,0,0.0
+KIELICH Timo,rider/timo-kielich,15,Alpecin - Deceuninck,team/alpecin-deceuninck-2025,136.0,DF,25,BE,5:48:06,0:00:00,0,0.0
+HOOLE Daan,rider/daan-hoole,112,Lidl - Trek,team/lidl-trek-2025,137.0,DF,26,NL,5:48:06,0:00:00,0,0.0
+PLUIMERS Rick,rider/rick-pluimers,194,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,138.0,DF,24,NL,5:48:06,0:00:00,0,0.0
+VAN DEN BOSSCHE Fabio,rider/fabio-van-den-bossche,17,Alpecin - Deceuninck,team/alpecin-deceuninck-2025,139.0,DF,24,BE,5:48:06,0:00:00,0,0.0
+FRETIN Milan,rider/milan-fretin,41,Cofidis,team/cofidis-2025,140.0,DF,24,BE,5:48:06,0:00:00,0,0.0
+PIETROBON Andrea,rider/andrea-pietrobon,177,Team Polti VisitMalta,team/team-polti-visitmalta-2025,141.0,DF,26,IT,5:48:06,0:00:00,0,0.0
+VERRE Alessandro,rider/alessandro-verre,21,Arkéa - B&B Hotels,team/arkea-b-b-hotels-2025,142.0,DF,23,IT,5:48:06,0:00:00,0,0.0
+PEDERSEN Mads,rider/mads-pedersen,116,Lidl - Trek,team/lidl-trek-2025,143.0,DF,29,DK,5:48:06,0:00:00,0,0.0
+VAN AERT Wout,rider/wout-van-aert,181,Team Visma | Lease a Bike,team/team-visma-lease-a-bike-2025,144.0,DF,30,BE,5:48:06,0:00:00,0,0.0
+LAMPERTI Luke,rider/luke-lamperti,147,Soudal Quick-Step,team/soudal-quick-step-2025,145.0,DF,22,US,5:48:06,0:00:00,0,0.0
+DE BONDT Dries,rider/dries-de-bondt,53,Decathlon AG2R La Mondiale Team,team/decathlon-ag2r-la-mondiale-2025,146.0,DF,33,BE,5:48:06,0:00:00,0,0.0
+VAN DER HOORN Taco,rider/taco-van-der-hoorn,97,Intermarché - Wanty,team/intermarche-wanty-2025,147.0,DF,31,NL,5:48:06,0:00:00,0,0.0
+MAGNIER Paul,rider/paul-magnier,148,Soudal Quick-Step,team/soudal-quick-step-2025,148.0,DF,21,FR,5:48:06,0:00:00,0,0.0
+HAYTER Ethan,rider/ethan-hayter,145,Soudal Quick-Step,team/soudal-quick-step-2025,149.0,DF,26,GB,5:48:06,0:00:00,0,0.0
+DOUBLE Paul,rider/paul-double,154,Team Jayco AlUla,team/team-jayco-alula-2025,150.0,DF,28,GB,5:48:06,0:00:00,0,0.0
+EDMONDSON Alex,rider/alexander-edmondson,162,Team Picnic PostNL,team/team-picnic-postnl-2025,151.0,DF,31,AU,5:48:06,0:00:00,0,0.0
+VAN UDEN Casper,rider/casper-van-uden,167,Team Picnic PostNL,team/team-picnic-postnl-2025,152.0,DF,23,NL,5:48:06,0:00:00,0,0.0
+SCHULTZ Nick,rider/nick-schultz,107,Israel - Premier Tech,team/israel-premier-tech-2025,153.0,DF,30,AU,5:48:06,0:00:00,0,0.0
+ASGREEN Kasper,rider/kasper-asgreen,62,EF Education - EasyPost,team/ef-education-easypost-2025,154.0,DF,30,DK,5:48:06,0:00:00,0,0.0
+COLLEONI Kevin,rider/kevin-colleoni,93,Intermarché - Wanty,team/intermarche-wanty-2025,155.0,DF,25,IT,5:48:06,0:00:00,0,0.0
+DENZ Nico,rider/nico-denz,3,Red Bull - BORA - hansgrohe,team/red-bull-bora-hansgrohe-2025,156.0,DF,31,DE,5:48:06,0:00:00,0,0.0
+ČERNÝ Josef,rider/josef-cerny,143,Soudal Quick-Step,team/soudal-quick-step-2025,157.0,DF,32,CZ,5:48:06,0:00:00,0,0.0
+MARCELLUSI Martin,rider/martin-marcellusi,214,VF Group - Bardiani CSF - Faizanè,team/vf-group-bardiani-csf-faizane-2025,158.0,DF,25,IT,5:48:06,0:00:00,0,0.0
+MOZZATO Luca,rider/luca-mozzato,25,Arkéa - B&B Hotels,team/arkea-b-b-hotels-2025,159.0,DF,27,IT,5:48:06,0:00:00,0,0.0
+GOVEKAR Matevž,rider/matevz-govekar,35,Bahrain - Victorious,team/bahrain-victorious-2025,160.0,DF,25,SI,5:48:06,0:00:00,0,0.0
+KRIEGER Alexander,rider/alexander-krieger,193,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,161.0,DF,33,DE,5:48:06,0:00:00,0,0.0
+GUDMESTAD Tord,rider/tord-gudmestad,56,Decathlon AG2R La Mondiale Team,team/decathlon-ag2r-la-mondiale-2025,162.0,DF,24,NO,5:48:06,0:00:00,0,0.0
+MÄRKL Niklas,rider/niklas-markl,165,Team Picnic PostNL,team/team-picnic-postnl-2025,163.0,DF,26,DE,5:48:06,0:00:00,0,0.0
+GROVES Kaden,rider/kaden-groves,11,Alpecin - Deceuninck,team/alpecin-deceuninck-2025,164.0,DF,26,AU,5:48:06,0:00:00,0,0.0
+ENGELHARDT Felix,rider/felix-engelhardt,155,Team Jayco AlUla,team/team-jayco-alula-2025,165.0,DF,24,DE,5:48:06,0:00:00,0,0.0
+BENNETT Sam,rider/sam-bennett,51,Decathlon AG2R La Mondiale Team,team/decathlon-ag2r-la-mondiale-2025,166.0,DF,34,IE,5:48:06,0:00:00,0,0.0
+EULÁLIO Afonso,rider/afonso-eulalio,34,Bahrain - Victorious,team/bahrain-victorious-2025,167.0,DF,23,PT,5:48:06,0:00:00,0,0.0
+PLANCKAERT Edward,rider/edward-planckaert,16,Alpecin - Deceuninck,team/alpecin-deceuninck-2025,168.0,DF,30,BE,5:48:06,0:00:00,0,0.0
+ZIJLAARD Maikel,rider/maikel-zijlaard,198,Tudor Pro Cycling Team,team/tudor-pro-cycling-team-2025,169.0,DF,25,NL,5:48:06,0:00:00,0,0.0
+CICCONE Giulio,rider/giulio-ciccone,111,Lidl - Trek,team/lidl-trek-2025,,DNS,30,IT,5:48:06,0:00:00,0,0.0
