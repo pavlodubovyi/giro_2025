@@ -1,9 +1,9 @@
-name,age,weight,height,team_name,team_url,rider_url
-Sam  Bennett,,73.0,1.78,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/sam-bennett
-Geoffrey  Bouchard,,63.0,1.78,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/geoffrey-bouchard
-Dries De Bondt,,73.0,1.84,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dries-de-bondt
-Stan  Dewulf,,74.0,1.76,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/stan-dewulf
-Dorian  Godon,,74.0,1.9,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dorian-godon
-Tord  Gudmestad,,82.0,1.88,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/tord-gudmestad
-Nicolas  Prodhomme,,63.0,1.74,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/nicolas-prodhomme
-Andrea  Vendrame,,60.0,1.68,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/andrea-vendrame
+name,age,weight,height,nationality,team_name,team_url,rider_url
+Sam  Bennett,,73.0,1.78,IE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/sam-bennett
+Geoffrey  Bouchard,,63.0,1.78,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/geoffrey-bouchard
+Dries De Bondt,,73.0,1.84,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dries-de-bondt
+Stan  Dewulf,,74.0,1.76,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/stan-dewulf
+Dorian  Godon,,74.0,1.9,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dorian-godon
+Tord  Gudmestad,,82.0,1.88,NO,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/tord-gudmestad
+Nicolas  Prodhomme,,63.0,1.74,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/nicolas-prodhomme
+Andrea  Vendrame,,60.0,1.68,IT,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/andrea-vendrame

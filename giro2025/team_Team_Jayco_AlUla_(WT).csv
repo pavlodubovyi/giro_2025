@@ -1,9 +1,9 @@
-name,age,weight,height,team_name,team_url,rider_url
-Chris  Harper,,67.0,1.85,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/chris-harper
-Koen  Bouwman,,60.0,1.78,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/koen-bouwman
-Davide De Pretto,,58.0,1.72,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/davide-de-pretto
-Paul  Double,,56.0,1.71,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/paul-double
-Felix  Engelhardt,,68.0,1.8,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/felix-engelhardt
-Michael  Hepburn,,77.0,1.86,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/michael-hepburn
-Luke  Plapp,,72.0,1.81,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/luke-plapp
-Filippo  Zana,,65.0,1.85,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/filippo-zana
+name,age,weight,height,nationality,team_name,team_url,rider_url
+Chris  Harper,,67.0,1.85,AU,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/chris-harper
+Koen  Bouwman,,60.0,1.78,NL,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/koen-bouwman
+Davide De Pretto,,58.0,1.72,IT,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/davide-de-pretto
+Paul  Double,,56.0,1.71,GB,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/paul-double
+Felix  Engelhardt,,68.0,1.8,DE,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/felix-engelhardt
+Michael  Hepburn,,77.0,1.86,AU,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/michael-hepburn
+Luke  Plapp,,72.0,1.81,AU,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/luke-plapp
+Filippo  Zana,,65.0,1.85,IT,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/filippo-zana

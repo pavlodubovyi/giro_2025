@@ -1,0 +1,185 @@
+name,age,weight,height,nationality,team_name,team_url,rider_url
+Primož  Roglič,,65.0,1.77,SI,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/primoz-roglic
+Giovanni  Aleotti,,67.0,1.8,IT,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/giovanni-aleotti
+Nico  Denz,,71.0,1.83,DE,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/nico-denz
+Jai  Hindley,,60.0,1.75,AU,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/jai-hindley
+Daniel Felipe  Martínez,,63.0,1.72,CO,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/daniel-felipe-martinez
+Gianni  Moscon,,71.0,1.8,IT,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/gianni-moscon
+Giulio  Pellizzari,,66.0,1.83,IT,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/giulio-pellizzari
+Jan  Tratnik,,67.0,1.73,SI,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/jan-tratnik
+Kaden  Groves,,76.0,1.76,AU,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/kaden-groves
+Quinten  Hermans,,62.0,1.74,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/quinten-hermans
+Juri  Hollmann,,70.0,1.84,DE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/juri-hollmann
+Jimmy  Janssens,,74.0,1.83,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/jimmy-janssens
+Timo  Kielich,,73.0,1.85,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/timo-kielich
+Edward  Planckaert,,71.0,1.78,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/edward-planckaert
+Fabio Van den Bossche,,63.0,1.76,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/fabio-van-den-bossche
+Jensen  Plowright,,80.0,1.76,AU,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/jensen-plowright
+Alessandro  Verre,,59.0,1.7,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/alessandro-verre
+Giosuè  Epis,,64.0,1.69,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/giosue-epis
+Simon  Guglielmi,,66.0,1.8,FR,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/simon-guglielmi
+Laurens  Huys,,61.0,1.62,BE,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/laurens-huys
+Luca  Mozzato,,67.0,1.78,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/luca-mozzato
+Michel  Ries,,67.0,1.84,LU,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/michel-ries
+Embret  Svestad-Bårdseng,,,1.85,NO,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/embret-svestad-bardseng
+Martin  Tjøtta,,,,NO,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/martin-tjotta
+Antonio  Tiberi,,62.0,1.82,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/antonio-tiberi
+Pello  Bilbao,,60.0,1.74,ES,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/pello-bilbao
+Damiano  Caruso,,67.0,1.79,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/damiano-caruso
+Afonso  Eulálio,,62.0,1.74,PT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/afonso-eulalio
+Matevž  Govekar,,73.0,1.8,SI,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/matevz-govekar
+Fran  Miholjević,,72.0,1.89,HR,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/fran-miholjevic
+Andrea  Pasqualon,,75.0,1.74,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/andrea-pasqualon
+Edoardo  Zambanini,,62.0,1.81,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/edoardo-zambanini
+Milan  Fretin,,70.0,1.82,BE,Cofidis (WT),team/cofidis-2025,rider/milan-fretin
+Nicolas  Debeaumarché,,75.0,1.89,FR,Cofidis (WT),team/cofidis-2025,rider/nicolas-debeaumarche
+Jonathan  Lastra,,64.0,1.72,ES,Cofidis (WT),team/cofidis-2025,rider/jonathan-lastra
+Jan  Maas,,70.0,1.89,NL,Cofidis (WT),team/cofidis-2025,rider/jan-maas
+Sylvain  Moniquet,,61.0,1.75,BE,Cofidis (WT),team/cofidis-2025,rider/sylvain-moniquet
+Stefano  Oldani,,65.0,1.78,IT,Cofidis (WT),team/cofidis-2025,rider/stefano-oldani
+Anthony  Perez,,70.0,1.9,FR,Cofidis (WT),team/cofidis-2025,rider/anthony-perez
+Sergio  Samitier,,63.0,1.81,ES,Cofidis (WT),team/cofidis-2025,rider/sergio-samitier
+Sam  Bennett,,73.0,1.78,IE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/sam-bennett
+Geoffrey  Bouchard,,63.0,1.78,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/geoffrey-bouchard
+Dries De Bondt,,73.0,1.84,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dries-de-bondt
+Stan  Dewulf,,74.0,1.76,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/stan-dewulf
+Dorian  Godon,,74.0,1.9,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dorian-godon
+Tord  Gudmestad,,82.0,1.88,NO,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/tord-gudmestad
+Nicolas  Prodhomme,,63.0,1.74,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/nicolas-prodhomme
+Andrea  Vendrame,,60.0,1.68,IT,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/andrea-vendrame
+Richard  Carapaz,,62.0,1.7,EC,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/richard-carapaz
+Kasper  Asgreen,,75.0,1.93,DK,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/kasper-asgreen
+Jefferson Alexander  Cepeda,,56.0,1.64,EC,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/jefferson-alexander-cepeda
+Owain  Doull,,71.0,1.81,GB,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/owain-doull
+Mikkel Frølich  Honoré,,68.0,1.85,DK,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/mikkel-honore
+Darren  Rafferty,,65.0,1.76,IE,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/darren-rafferty
+James  Shaw,,63.0,1.79,GB,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/james-shaw
+Georg  Steinhauser,,65.0,1.89,DE,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/georg-steinhauser
+David  Gaudu,,53.0,1.72,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/david-gaudu
+Sven Erik  Bystrøm,,73.0,1.88,NO,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/sven-erik-bystrom
+Clément  Davy,,73.0,1.83,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/clement-davy
+Kevin  Geniets,,73.0,1.93,LU,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/kevin-geniets
+Lorenzo  Germani,,62.0,1.79,IT,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/lorenzo-germani
+Quentin  Pacher,,62.0,1.79,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/quentin-pacher
+Enzo  Paleni,,65.0,1.8,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/enzo-paleni
+Rémy  Rochas,,51.0,1.64,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/remy-rochas
+Egan  Bernal,,60.0,1.75,CO,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/egan-bernal
+Thymen  Arensman,,68.0,1.9,NL,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/thymen-arensman
+Jonathan  Castroviejo,,62.0,1.71,ES,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/jonathan-castroviejo
+Lucas  Hamilton,,71.0,1.84,AU,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/lucas-hamilton
+Kim  Heiduk,,70.0,1.84,DE,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/kim-heiduk
+Brandon Smith  Rivera,,60.0,1.7,CO,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/brandon-smith-rivera-vargas
+Joshua  Tarling,,78.0,1.94,GB,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/joshua-tarling
+Ben  Turner,,74.0,1.94,GB,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/ben-turner
+Louis  Meintjes,,58.0,1.73,ZA,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/louis-meintjes
+Francesco  Busatto,,62.0,1.72,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/francesco-busatto
+Kevin  Colleoni,,66.0,1.8,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/kevin-colleoni
+Simone  Petilli,,65.0,1.78,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/simone-petilli
+Dion  Smith,,67.0,1.79,NZ,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/dion-smith
+Gerben  Thijssen,,74.0,1.74,BE,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/gerben-thijssen
+Taco van der Hoorn,,73.0,1.87,NL,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/taco-van-der-hoorn
+Gijs Van Hoecke,,78.0,1.86,BE,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/gijs-van-hoecke
+Derek  Gee,,72.0,1.89,CA,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/derek-gee
+Simon  Clarke,,63.0,1.75,AU,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/simon-clarke
+Marco  Frigo,,70.0,1.88,IT,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/marco-frigo
+Jakob  Fuglsang,,67.0,1.82,DK,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/jakob-fuglsang
+Jan  Hirt,,62.0,1.81,CZ,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/jan-hirt
+Hugo  Houle,,72.0,1.82,CA,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/hugo-houle
+Nick  Schultz,,68.0,1.8,AU,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/nick-schultz
+Corbin  Strong,,63.0,1.73,NZ,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/corbin-strong
+Giulio  Ciccone,,58.0,1.76,IT,Lidl - Trek (WT),team/lidl-trek-2025,rider/giulio-ciccone
+Daan  Hoole,,81.0,1.98,NL,Lidl - Trek (WT),team/lidl-trek-2025,rider/daan-hoole
+Patrick  Konrad,,64.0,1.81,AT,Lidl - Trek (WT),team/lidl-trek-2025,rider/patrick-konrad
+Søren Kragh Andersen,,73.0,1.78,DK,Lidl - Trek (WT),team/lidl-trek-2025,rider/soren-kragh-andersen
+Jacopo  Mosca,,65.0,1.73,IT,Lidl - Trek (WT),team/lidl-trek-2025,rider/jacopo-mosca
+Mads  Pedersen,,76.0,1.8,DK,Lidl - Trek (WT),team/lidl-trek-2025,rider/mads-pedersen
+Mathias  Vacek,,75.0,1.88,CZ,Lidl - Trek (WT),team/lidl-trek-2025,rider/mathias-vacek
+Carlos  Verona,,68.0,1.86,ES,Lidl - Trek (WT),team/lidl-trek-2025,rider/carlos-verona
+Nairo  Quintana,,58.0,1.67,CO,Movistar Team (WT),team/movistar-team-2025,rider/nairo-quintana
+Orluis  Aular,,65.0,1.76,VE,Movistar Team (WT),team/movistar-team-2025,rider/orluis-aular
+Jon  Barrenetxea,,74.0,1.88,ES,Movistar Team (WT),team/movistar-team-2025,rider/jon-barrenetxea-golzarri
+Jefferson Alveiro  Cepeda,,61.0,1.7,EC,Movistar Team (WT),team/movistar-team-2025,rider/jefferson-cepeda-hernandez
+Davide  Formolo,,62.0,1.82,IT,Movistar Team (WT),team/movistar-team-2025,rider/davide-formolo
+Lorenzo  Milesi,,70.0,1.8,IT,Movistar Team (WT),team/movistar-team-2025,rider/lorenzo-milesi
+Einer  Rubio,,56.0,1.64,CO,Movistar Team (WT),team/movistar-team-2025,rider/einer-rubio
+Albert  Torres,,70.0,1.8,ES,Movistar Team (WT),team/movistar-team-2025,rider/albert-torres
+Thomas  Pidcock,,58.0,1.7,GB,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/thomas-pidcock
+Xabier Mikel  Azparren,,,,ES,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/xabier-mikel-azparren-irurzun
+Mark  Donovan,,70.0,1.85,GB,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/mark-donovan
+Damien  Howson,,68.0,1.88,AU,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/damien-howson
+Emīls  Liepiņš,,67.0,1.75,LV,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/emils-liepins
+Matteo  Moschetti,,73.0,1.8,IT,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/matteo-moschetti
+Milan  Vader,,63.0,1.73,NL,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/milan-vader
+Nickolas  Zukowsky,,,1.88,CA,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/nickolas-zukowsky
+Mikel  Landa,,61.0,1.72,ES,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/mikel-landa
+Mattia  Cattaneo,,67.0,1.84,IT,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/mattia-cattaneo
+Josef  Černý,,75.0,1.88,CZ,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/josef-cerny
+Gianmarco  Garofoli,,62.0,1.8,IT,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/gianmarco-garofoli
+Ethan  Hayter,,70.0,1.8,GB,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/ethan-hayter
+James  Knox,,58.0,1.73,GB,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/james-knox
+Luke  Lamperti,,74.0,1.8,US,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/luke-lamperti
+Paul  Magnier,,70.0,1.87,FR,Soudal Quick-Step (WT),team/soudal-quick-step-2025,rider/paul-magnier
+Chris  Harper,,67.0,1.85,AU,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/chris-harper
+Koen  Bouwman,,60.0,1.78,NL,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/koen-bouwman
+Davide De Pretto,,58.0,1.72,IT,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/davide-de-pretto
+Paul  Double,,56.0,1.71,GB,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/paul-double
+Felix  Engelhardt,,68.0,1.8,DE,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/felix-engelhardt
+Michael  Hepburn,,77.0,1.86,AU,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/michael-hepburn
+Luke  Plapp,,72.0,1.81,AU,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/luke-plapp
+Filippo  Zana,,65.0,1.85,IT,Team Jayco AlUla (WT),team/team-jayco-alula-2025,rider/filippo-zana
+Romain  Bardet,,65.0,1.85,FR,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/romain-bardet
+Alex  Edmondson,,75.0,1.83,AU,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/alexander-edmondson
+Chris  Hamilton,,70.0,1.78,AU,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/chris-hamilton
+Gijs  Leemreize,,66.0,1.9,NL,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/gijs-leemreize
+Niklas  Märkl,,70.0,1.85,DE,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/niklas-markl
+Max  Poole,,,1.85,GB,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/max-poole
+Casper van Uden,,,1.81,NL,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/casper-van-uden
+Bram  Welten,,81.0,1.88,NL,Team Picnic PostNL (WT),team/team-picnic-postnl-2025,rider/bram-welten
+Davide  Piganzoli,,61.0,1.74,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/davide-piganzoli
+Davide  Bais,,66.0,1.83,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/davide-bais
+Mattia  Bais,,66.0,1.75,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/mattia-bais
+Giovanni  Lonardi,,70.0,1.8,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/giovanni-lonardi
+Mirco  Maestri,,73.0,1.85,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/mirco-maestri
+Francisco  Muñoz,,71.0,1.81,ES,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/francisco-munoz-llana
+Andrea  Pietrobon,,72.0,1.9,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/andrea-pietrobon
+Alessandro  Tonelli,,64.0,1.76,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/alessandro-tonelli
+Wout van Aert,,78.0,1.9,BE,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/wout-van-aert
+Edoardo  Affini,,80.0,1.9,IT,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/edoardo-affini
+Wilco  Kelderman,,65.0,1.85,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/wilco-kelderman
+Olav  Kooij,,72.0,1.84,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/olav-kooij
+Steven  Kruijswijk,,63.0,1.78,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/steven-kruijswijk
+Bart  Lemmen,,,1.8,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/bart-lemmen
+Dylan van Baarle,,78.0,1.89,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/dylan-van-baarle
+YATES Simon,,,,,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/simon-yates
+Michael  Storer,,63.0,1.74,AU,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/michael-storer
+Marco  Brenner,,59.0,1.81,DE,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/marco-brenner
+Alexander  Krieger,,71.0,1.84,DE,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/alexander-krieger
+Rick  Pluimers,,67.0,1.8,NL,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/rick-pluimers
+Florian  Stork,,65.0,1.85,DE,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/florian-stork
+Yannis  Voisard,,56.0,,CH,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/yannis-voisard
+Larry  Warbasse,,67.0,1.83,US,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/lawrence-warbasse
+Maikel  Zijlaard,,73.0,1.89,NL,Tudor Pro Cycling Team (PRT),team/tudor-pro-cycling-team-2025,rider/maikel-zijlaard
+Juan  Ayuso,,65.0,1.83,ES,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/juan-ayuso-pesquera
+Igor  Arrieta,,64.0,1.82,ES,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/igor-arrieta-lizarraga
+Filippo  Baroncini,,74.0,1.88,IT,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/filippo-baroncini
+Isaac del Toro,,64.0,1.8,MX,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/isaac-del-toro
+Rafał  Majka,,62.0,1.73,PL,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/rafal-majka
+Brandon  McNulty,,69.0,1.83,US,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/brandon-mcnulty
+Jay  Vine,,69.0,1.84,AU,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/jay-vine
+Adam  Yates,,58.0,1.73,GB,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/adam-yates
+Filippo  Fiorelli,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/filippo-fiorelli
+Luca  Covili,,58.0,1.8,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/luca-covili
+Filippo  Magli,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/filippo-magli2
+Martin  Marcellusi,,62.0,1.72,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/martin-marcellusi
+Alessio  Martinelli,,,1.7,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/alessio-martinelli
+Alessandro  Pinarello,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/alessandro-pinarello
+Manuele  Tarozzi,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/manuele-tarozzi
+Enrico  Zanoncello,,64.0,1.7,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/enrico-zanoncello
+ULISSI Diego,,,,,XDS Astana Team (WT),team/xds-astana-team-2025,rider/diego-ulissi
+Nicola  Conci,,68.0,1.85,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/nicola-conci
+Lorenzo  Fortunato,,57.0,1.7,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/lorenzo-fortunato
+Max  Kanter,,68.0,1.76,DE,XDS Astana Team (WT),team/xds-astana-team-2025,rider/max-kanter
+Anton  Kuzmin,,66.0,1.86,KZ,XDS Astana Team (WT),team/xds-astana-team-2025,rider/anton-kuzmin
+Fausto  Masnada,,65.0,1.82,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/fausto-masnada
+Wout  Poels,,66.0,1.86,NL,XDS Astana Team (WT),team/xds-astana-team-2025,rider/wout-poels
+Christian  Scaroni,,63.0,1.75,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/christian-scaroni

@@ -1,9 +1,9 @@
-name,age,weight,height,team_name,team_url,rider_url
-ULISSI Diego,,,,XDS Astana Team (WT),team/xds-astana-team-2025,rider/diego-ulissi
-Nicola  Conci,,68.0,1.85,XDS Astana Team (WT),team/xds-astana-team-2025,rider/nicola-conci
-Lorenzo  Fortunato,,57.0,1.7,XDS Astana Team (WT),team/xds-astana-team-2025,rider/lorenzo-fortunato
-Max  Kanter,,68.0,1.76,XDS Astana Team (WT),team/xds-astana-team-2025,rider/max-kanter
-Anton  Kuzmin,,66.0,1.86,XDS Astana Team (WT),team/xds-astana-team-2025,rider/anton-kuzmin
-Fausto  Masnada,,65.0,1.82,XDS Astana Team (WT),team/xds-astana-team-2025,rider/fausto-masnada
-Wout  Poels,,66.0,1.86,XDS Astana Team (WT),team/xds-astana-team-2025,rider/wout-poels
-Christian  Scaroni,,63.0,1.75,XDS Astana Team (WT),team/xds-astana-team-2025,rider/christian-scaroni
+name,age,weight,height,nationality,team_name,team_url,rider_url
+ULISSI Diego,,,,,XDS Astana Team (WT),team/xds-astana-team-2025,rider/diego-ulissi
+Nicola  Conci,,68.0,1.85,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/nicola-conci
+Lorenzo  Fortunato,,57.0,1.7,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/lorenzo-fortunato
+Max  Kanter,,68.0,1.76,DE,XDS Astana Team (WT),team/xds-astana-team-2025,rider/max-kanter
+Anton  Kuzmin,,66.0,1.86,KZ,XDS Astana Team (WT),team/xds-astana-team-2025,rider/anton-kuzmin
+Fausto  Masnada,,65.0,1.82,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/fausto-masnada
+Wout  Poels,,66.0,1.86,NL,XDS Astana Team (WT),team/xds-astana-team-2025,rider/wout-poels
+Christian  Scaroni,,63.0,1.75,IT,XDS Astana Team (WT),team/xds-astana-team-2025,rider/christian-scaroni

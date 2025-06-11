@@ -1,9 +1,9 @@
-name,age,weight,height,team_name,team_url,rider_url
-Primož  Roglič,,65.0,1.77,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/primoz-roglic
-Giovanni  Aleotti,,67.0,1.8,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/giovanni-aleotti
-Nico  Denz,,71.0,1.83,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/nico-denz
-Jai  Hindley,,60.0,1.75,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/jai-hindley
-Daniel Felipe  Martínez,,63.0,1.72,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/daniel-felipe-martinez
-Gianni  Moscon,,71.0,1.8,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/gianni-moscon
-Giulio  Pellizzari,,66.0,1.83,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/giulio-pellizzari
-Jan  Tratnik,,67.0,1.73,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/jan-tratnik
+name,age,weight,height,nationality,team_name,team_url,rider_url
+Primož  Roglič,,65.0,1.77,SI,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/primoz-roglic
+Giovanni  Aleotti,,67.0,1.8,IT,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/giovanni-aleotti
+Nico  Denz,,71.0,1.83,DE,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/nico-denz
+Jai  Hindley,,60.0,1.75,AU,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/jai-hindley
+Daniel Felipe  Martínez,,63.0,1.72,CO,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/daniel-felipe-martinez
+Gianni  Moscon,,71.0,1.8,IT,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/gianni-moscon
+Giulio  Pellizzari,,66.0,1.83,IT,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/giulio-pellizzari
+Jan  Tratnik,,67.0,1.73,SI,Red Bull - BORA - hansgrohe (WT),team/red-bull-bora-hansgrohe-2025,rider/jan-tratnik

@@ -1,9 +1,9 @@
-name,age,weight,height,team_name,team_url,rider_url
-Antonio  Tiberi,,62.0,1.82,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/antonio-tiberi
-Pello  Bilbao,,60.0,1.74,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/pello-bilbao
-Damiano  Caruso,,67.0,1.79,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/damiano-caruso
-Afonso  Eulálio,,62.0,1.74,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/afonso-eulalio
-Matevž  Govekar,,73.0,1.8,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/matevz-govekar
-Fran  Miholjević,,72.0,1.89,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/fran-miholjevic
-Andrea  Pasqualon,,75.0,1.74,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/andrea-pasqualon
-Edoardo  Zambanini,,62.0,1.81,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/edoardo-zambanini
+name,age,weight,height,nationality,team_name,team_url,rider_url
+Antonio  Tiberi,,62.0,1.82,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/antonio-tiberi
+Pello  Bilbao,,60.0,1.74,ES,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/pello-bilbao
+Damiano  Caruso,,67.0,1.79,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/damiano-caruso
+Afonso  Eulálio,,62.0,1.74,PT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/afonso-eulalio
+Matevž  Govekar,,73.0,1.8,SI,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/matevz-govekar
+Fran  Miholjević,,72.0,1.89,HR,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/fran-miholjevic
+Andrea  Pasqualon,,75.0,1.74,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/andrea-pasqualon
+Edoardo  Zambanini,,62.0,1.81,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/edoardo-zambanini

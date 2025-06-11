@@ -1,5 +1,5 @@
 import os
-import time
+import re
 import pandas as pd
 from procyclingstats import Race, Stage, RaceStartlist, Rider
 
@@ -11,14 +11,20 @@ def save_csv(data, path):
 
 
 def sanitize_filename(name):
-    return name.replace(" ", "_").replace("/", "_")
+    """
+    Replaces all spaces and multiple underscores with a single underscore.
+    Removes problematic characters like slashes.
+    """
+    name = re.sub(r'[\s/]+', '_', name.strip())  # Replace spaces and slashes with _
+    name = re.sub(r'_+', '_', name)              # Replace multiple _ with a single one
+    return name
 
 
 def main():
     base_folder = "giro2025"
     race = Race("race/giro-d-italia/2025")
 
-    # Fetch metadata about all stages
+    # Fetch all stages
     stages = race.stages()
     save_csv(stages, f"{base_folder}/giro2025_stages.csv")
 
@@ -27,12 +33,11 @@ def main():
         url = stage_info["stage_url"]
         st = Stage(url)
         try:
-            results = st.results()  # No custom fields, default columns only
+            results = st.results()
             num = stage_info["stage_name"].split()[1]
             save_csv(results, f"{base_folder}/stage_{num}_results.csv")
         except Exception as e:
             print(f"Error getting results for {url}: {e}")
-        time.sleep(1)
 
     # Get General Classification (GC) from the last stage
     try:
@@ -52,7 +57,7 @@ def main():
         print(f"Error fetching startlist: {e}")
         riders = []
 
-    # Fetch detailed profile for each rider
+    # Fetch detailed profile for each rider into a single file
     all_riders = []
     for rider in riders:
         rider_name = rider.get("rider_name", "Unknown")
@@ -65,27 +70,30 @@ def main():
                 "age": info.get("age"),
                 "weight": info.get("weight"),
                 "height": info.get("height"),
+                "nationality": info.get("nationality"),
                 "team_name": rider.get("team_name"),
                 "team_url": rider.get("team_url"),
                 "rider_url": rider.get("rider_url"),
             }
 
         except Exception as e:
-            print(f"Failed to parse full profile for {rider_name}: {e}")
+            print(f"Failed to fetch full profile for {rider_name}: {e}")
             filtered_info = {
                 "name": rider_name,
                 "age": None,
                 "weight": None,
                 "height": None,
+                "nationality": None,
                 "team_name": rider.get("team_name"),
                 "team_url": rider.get("team_url"),
                 "rider_url": rider.get("rider_url"),
             }
 
         all_riders.append(filtered_info)
-        filename = f"{base_folder}/rider_{sanitize_filename(filtered_info['name'])}.csv"
-        save_csv([filtered_info], filename)
-        time.sleep(0.5)
+
+    print("Creating a single file with all riders...")
+    save_csv(all_riders, f"{base_folder}/giro2025_all_riders.csv")
+    print("giro2025_all_riders.csv created")
 
     # Group riders by team and save team rosters
     team_dict = {}

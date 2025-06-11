@@ -1,9 +1,9 @@
-name,age,weight,height,team_name,team_url,rider_url
-Egan  Bernal,,60.0,1.75,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/egan-bernal
-Thymen  Arensman,,68.0,1.9,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/thymen-arensman
-Jonathan  Castroviejo,,62.0,1.71,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/jonathan-castroviejo
-Lucas  Hamilton,,71.0,1.84,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/lucas-hamilton
-Kim  Heiduk,,70.0,1.84,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/kim-heiduk
-Brandon Smith  Rivera,,60.0,1.7,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/brandon-smith-rivera-vargas
-Joshua  Tarling,,78.0,1.94,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/joshua-tarling
-Ben  Turner,,74.0,1.94,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/ben-turner
+name,age,weight,height,nationality,team_name,team_url,rider_url
+Egan  Bernal,,60.0,1.75,CO,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/egan-bernal
+Thymen  Arensman,,68.0,1.9,NL,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/thymen-arensman
+Jonathan  Castroviejo,,62.0,1.71,ES,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/jonathan-castroviejo
+Lucas  Hamilton,,71.0,1.84,AU,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/lucas-hamilton
+Kim  Heiduk,,70.0,1.84,DE,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/kim-heiduk
+Brandon Smith  Rivera,,60.0,1.7,CO,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/brandon-smith-rivera-vargas
+Joshua  Tarling,,78.0,1.94,GB,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/joshua-tarling
+Ben  Turner,,74.0,1.94,GB,INEOS Grenadiers (WT),team/ineos-grenadiers-2025,rider/ben-turner
