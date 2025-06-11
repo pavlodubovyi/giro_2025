@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Davide  Piganzoli,,61.0,1.74,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/davide-piganzoli
-Davide  Bais,,66.0,1.83,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/davide-bais
-Mattia  Bais,,66.0,1.75,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/mattia-bais
-Giovanni  Lonardi,,70.0,1.8,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/giovanni-lonardi
-Mirco  Maestri,,73.0,1.85,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/mirco-maestri
-Francisco  Muñoz,,71.0,1.81,ES,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/francisco-munoz-llana
-Andrea  Pietrobon,,72.0,1.9,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/andrea-pietrobon
-Alessandro  Tonelli,,64.0,1.76,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/alessandro-tonelli
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+171,Davide  Piganzoli,2002-7-8,61.0,1.74,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/davide-piganzoli
+172,Davide  Bais,1998-4-2,66.0,1.83,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/davide-bais
+173,Mattia  Bais,1996-10-19,66.0,1.75,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/mattia-bais
+174,Giovanni  Lonardi,1996-11-9,70.0,1.8,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/giovanni-lonardi
+175,Mirco  Maestri,1991-10-26,73.0,1.85,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/mirco-maestri
+176,Francisco  Muñoz,2001-6-24,71.0,1.81,ES,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/francisco-munoz-llana
+177,Andrea  Pietrobon,1999-3-11,72.0,1.9,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/andrea-pietrobon
+178,Alessandro  Tonelli,1992-5-29,64.0,1.76,IT,Team Polti VisitMalta (PRT),team/team-polti-visitmalta-2025,rider/alessandro-tonelli

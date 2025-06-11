@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Nairo  Quintana,,58.0,1.67,CO,Movistar Team (WT),team/movistar-team-2025,rider/nairo-quintana
-Orluis  Aular,,65.0,1.76,VE,Movistar Team (WT),team/movistar-team-2025,rider/orluis-aular
-Jon  Barrenetxea,,74.0,1.88,ES,Movistar Team (WT),team/movistar-team-2025,rider/jon-barrenetxea-golzarri
-Jefferson Alveiro  Cepeda,,61.0,1.7,EC,Movistar Team (WT),team/movistar-team-2025,rider/jefferson-cepeda-hernandez
-Davide  Formolo,,62.0,1.82,IT,Movistar Team (WT),team/movistar-team-2025,rider/davide-formolo
-Lorenzo  Milesi,,70.0,1.8,IT,Movistar Team (WT),team/movistar-team-2025,rider/lorenzo-milesi
-Einer  Rubio,,56.0,1.64,CO,Movistar Team (WT),team/movistar-team-2025,rider/einer-rubio
-Albert  Torres,,70.0,1.8,ES,Movistar Team (WT),team/movistar-team-2025,rider/albert-torres
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+121,Nairo  Quintana,1990-2-4,58.0,1.67,CO,Movistar Team (WT),team/movistar-team-2025,rider/nairo-quintana
+122,Orluis  Aular,1996-11-5,65.0,1.76,VE,Movistar Team (WT),team/movistar-team-2025,rider/orluis-aular
+123,Jon  Barrenetxea,2000-4-20,74.0,1.88,ES,Movistar Team (WT),team/movistar-team-2025,rider/jon-barrenetxea-golzarri
+124,Jefferson Alveiro  Cepeda,1996-3-2,61.0,1.7,EC,Movistar Team (WT),team/movistar-team-2025,rider/jefferson-cepeda-hernandez
+125,Davide  Formolo,1992-10-25,62.0,1.82,IT,Movistar Team (WT),team/movistar-team-2025,rider/davide-formolo
+126,Lorenzo  Milesi,2002-3-19,70.0,1.8,IT,Movistar Team (WT),team/movistar-team-2025,rider/lorenzo-milesi
+127,Einer  Rubio,1998-2-22,56.0,1.64,CO,Movistar Team (WT),team/movistar-team-2025,rider/einer-rubio
+128,Albert  Torres,1990-4-26,70.0,1.8,ES,Movistar Team (WT),team/movistar-team-2025,rider/albert-torres

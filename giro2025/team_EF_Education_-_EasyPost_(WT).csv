@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Richard  Carapaz,,62.0,1.7,EC,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/richard-carapaz
-Kasper  Asgreen,,75.0,1.93,DK,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/kasper-asgreen
-Jefferson Alexander  Cepeda,,56.0,1.64,EC,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/jefferson-alexander-cepeda
-Owain  Doull,,71.0,1.81,GB,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/owain-doull
-Mikkel Frølich  Honoré,,68.0,1.85,DK,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/mikkel-honore
-Darren  Rafferty,,65.0,1.76,IE,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/darren-rafferty
-James  Shaw,,63.0,1.79,GB,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/james-shaw
-Georg  Steinhauser,,65.0,1.89,DE,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/georg-steinhauser
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+61,Richard  Carapaz,1993-5-29,62.0,1.7,EC,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/richard-carapaz
+62,Kasper  Asgreen,1995-2-8,75.0,1.93,DK,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/kasper-asgreen
+63,Jefferson Alexander  Cepeda,1998-6-16,56.0,1.64,EC,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/jefferson-alexander-cepeda
+64,Owain  Doull,1993-5-2,71.0,1.81,GB,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/owain-doull
+65,Mikkel Frølich  Honoré,1997-1-21,68.0,1.85,DK,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/mikkel-honore
+66,Darren  Rafferty,2003-7-1,65.0,1.76,IE,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/darren-rafferty
+67,James  Shaw,1996-6-13,63.0,1.79,GB,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/james-shaw
+68,Georg  Steinhauser,2001-10-21,65.0,1.89,DE,EF Education - EasyPost (WT),team/ef-education-easypost-2025,rider/georg-steinhauser

@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Giulio  Ciccone,,58.0,1.76,IT,Lidl - Trek (WT),team/lidl-trek-2025,rider/giulio-ciccone
-Daan  Hoole,,81.0,1.98,NL,Lidl - Trek (WT),team/lidl-trek-2025,rider/daan-hoole
-Patrick  Konrad,,64.0,1.81,AT,Lidl - Trek (WT),team/lidl-trek-2025,rider/patrick-konrad
-Søren Kragh Andersen,,73.0,1.78,DK,Lidl - Trek (WT),team/lidl-trek-2025,rider/soren-kragh-andersen
-Jacopo  Mosca,,65.0,1.73,IT,Lidl - Trek (WT),team/lidl-trek-2025,rider/jacopo-mosca
-Mads  Pedersen,,76.0,1.8,DK,Lidl - Trek (WT),team/lidl-trek-2025,rider/mads-pedersen
-Mathias  Vacek,,75.0,1.88,CZ,Lidl - Trek (WT),team/lidl-trek-2025,rider/mathias-vacek
-Carlos  Verona,,68.0,1.86,ES,Lidl - Trek (WT),team/lidl-trek-2025,rider/carlos-verona
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+111,Giulio  Ciccone,1994-12-20,58.0,1.76,IT,Lidl - Trek (WT),team/lidl-trek-2025,rider/giulio-ciccone
+112,Daan  Hoole,1999-2-22,81.0,1.98,NL,Lidl - Trek (WT),team/lidl-trek-2025,rider/daan-hoole
+113,Patrick  Konrad,1991-10-13,64.0,1.81,AT,Lidl - Trek (WT),team/lidl-trek-2025,rider/patrick-konrad
+114,Søren Kragh Andersen,1994-8-10,73.0,1.78,DK,Lidl - Trek (WT),team/lidl-trek-2025,rider/soren-kragh-andersen
+115,Jacopo  Mosca,1993-8-29,65.0,1.73,IT,Lidl - Trek (WT),team/lidl-trek-2025,rider/jacopo-mosca
+116,Mads  Pedersen,1995-12-18,76.0,1.8,DK,Lidl - Trek (WT),team/lidl-trek-2025,rider/mads-pedersen
+117,Mathias  Vacek,2002-6-12,75.0,1.88,CZ,Lidl - Trek (WT),team/lidl-trek-2025,rider/mathias-vacek
+118,Carlos  Verona,1992-11-4,68.0,1.86,ES,Lidl - Trek (WT),team/lidl-trek-2025,rider/carlos-verona

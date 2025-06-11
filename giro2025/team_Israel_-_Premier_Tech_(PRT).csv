@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Derek  Gee,,72.0,1.89,CA,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/derek-gee
-Simon  Clarke,,63.0,1.75,AU,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/simon-clarke
-Marco  Frigo,,70.0,1.88,IT,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/marco-frigo
-Jakob  Fuglsang,,67.0,1.82,DK,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/jakob-fuglsang
-Jan  Hirt,,62.0,1.81,CZ,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/jan-hirt
-Hugo  Houle,,72.0,1.82,CA,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/hugo-houle
-Nick  Schultz,,68.0,1.8,AU,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/nick-schultz
-Corbin  Strong,,63.0,1.73,NZ,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/corbin-strong
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+101,Derek  Gee,1997-8-3,72.0,1.89,CA,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/derek-gee
+102,Simon  Clarke,1986-7-18,63.0,1.75,AU,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/simon-clarke
+103,Marco  Frigo,2000-3-2,70.0,1.88,IT,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/marco-frigo
+104,Jakob  Fuglsang,1985-3-22,67.0,1.82,DK,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/jakob-fuglsang
+105,Jan  Hirt,1991-1-21,62.0,1.81,CZ,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/jan-hirt
+106,Hugo  Houle,1990-9-27,72.0,1.82,CA,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/hugo-houle
+107,Nick  Schultz,1994-9-13,68.0,1.8,AU,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/nick-schultz
+109,Corbin  Strong,2000-4-30,63.0,1.73,NZ,Israel - Premier Tech (PRT),team/israel-premier-tech-2025,rider/corbin-strong

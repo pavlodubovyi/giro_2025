@@ -1,9 +1,8 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Wout van Aert,,78.0,1.9,BE,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/wout-van-aert
-Edoardo  Affini,,80.0,1.9,IT,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/edoardo-affini
-Wilco  Kelderman,,65.0,1.85,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/wilco-kelderman
-Olav  Kooij,,72.0,1.84,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/olav-kooij
-Steven  Kruijswijk,,63.0,1.78,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/steven-kruijswijk
-Bart  Lemmen,,,1.8,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/bart-lemmen
-Dylan van Baarle,,78.0,1.89,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/dylan-van-baarle
-YATES Simon,,,,,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/simon-yates
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+181,Wout van Aert,1994-9-15,78.0,1.9,BE,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/wout-van-aert
+182,Edoardo  Affini,1996-6-24,80.0,1.9,IT,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/edoardo-affini
+183,Wilco  Kelderman,1991-3-25,65.0,1.85,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/wilco-kelderman
+184,Olav  Kooij,2001-10-17,72.0,1.84,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/olav-kooij
+185,Steven  Kruijswijk,1987-6-7,63.0,1.78,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/steven-kruijswijk
+186,Bart  Lemmen,1995-10-14,,1.8,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/bart-lemmen
+187,Dylan van Baarle,1992-5-21,78.0,1.89,NL,Team Visma | Lease a Bike (WT),team/team-visma-lease-a-bike-2025,rider/dylan-van-baarle

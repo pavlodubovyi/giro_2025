@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Alessandro  Verre,,59.0,1.7,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/alessandro-verre
-Giosuè  Epis,,64.0,1.69,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/giosue-epis
-Simon  Guglielmi,,66.0,1.8,FR,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/simon-guglielmi
-Laurens  Huys,,61.0,1.62,BE,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/laurens-huys
-Luca  Mozzato,,67.0,1.78,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/luca-mozzato
-Michel  Ries,,67.0,1.84,LU,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/michel-ries
-Embret  Svestad-Bårdseng,,,1.85,NO,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/embret-svestad-bardseng
-Martin  Tjøtta,,,,NO,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/martin-tjotta
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+21,Alessandro  Verre,2001-11-17,59.0,1.7,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/alessandro-verre
+22,Giosuè  Epis,2002-3-4,64.0,1.69,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/giosue-epis
+23,Simon  Guglielmi,1997-7-1,66.0,1.8,FR,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/simon-guglielmi
+24,Laurens  Huys,1998-9-24,61.0,1.62,BE,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/laurens-huys
+25,Luca  Mozzato,1998-2-15,67.0,1.78,IT,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/luca-mozzato
+26,Michel  Ries,1998-3-11,67.0,1.84,LU,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/michel-ries
+27,Embret  Svestad-Bårdseng,2002-9-1,,1.85,NO,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/embret-svestad-bardseng
+28,Martin  Tjøtta,2001-3-27,,,NO,Arkéa - B&B Hotels (WT),team/arkea-b-b-hotels-2025,rider/martin-tjotta

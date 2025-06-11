@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Antonio  Tiberi,,62.0,1.82,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/antonio-tiberi
-Pello  Bilbao,,60.0,1.74,ES,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/pello-bilbao
-Damiano  Caruso,,67.0,1.79,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/damiano-caruso
-Afonso  Eulálio,,62.0,1.74,PT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/afonso-eulalio
-Matevž  Govekar,,73.0,1.8,SI,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/matevz-govekar
-Fran  Miholjević,,72.0,1.89,HR,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/fran-miholjevic
-Andrea  Pasqualon,,75.0,1.74,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/andrea-pasqualon
-Edoardo  Zambanini,,62.0,1.81,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/edoardo-zambanini
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+31,Antonio  Tiberi,2001-6-24,62.0,1.82,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/antonio-tiberi
+32,Pello  Bilbao,1990-2-25,60.0,1.74,ES,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/pello-bilbao
+33,Damiano  Caruso,1987-10-12,67.0,1.79,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/damiano-caruso
+34,Afonso  Eulálio,2001-9-30,62.0,1.74,PT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/afonso-eulalio
+35,Matevž  Govekar,2000-4-17,73.0,1.8,SI,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/matevz-govekar
+36,Fran  Miholjević,2002-8-2,72.0,1.89,HR,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/fran-miholjevic
+37,Andrea  Pasqualon,1988-1-2,75.0,1.74,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/andrea-pasqualon
+38,Edoardo  Zambanini,2001-4-21,62.0,1.81,IT,Bahrain - Victorious (WT),team/bahrain-victorious-2025,rider/edoardo-zambanini

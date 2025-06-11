@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Juan  Ayuso,,65.0,1.83,ES,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/juan-ayuso-pesquera
-Igor  Arrieta,,64.0,1.82,ES,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/igor-arrieta-lizarraga
-Filippo  Baroncini,,74.0,1.88,IT,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/filippo-baroncini
-Isaac del Toro,,64.0,1.8,MX,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/isaac-del-toro
-Rafał  Majka,,62.0,1.73,PL,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/rafal-majka
-Brandon  McNulty,,69.0,1.83,US,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/brandon-mcnulty
-Jay  Vine,,69.0,1.84,AU,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/jay-vine
-Adam  Yates,,58.0,1.73,GB,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/adam-yates
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+201,Juan  Ayuso,2002-9-16,65.0,1.83,ES,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/juan-ayuso-pesquera
+202,Igor  Arrieta,2002-12-8,64.0,1.82,ES,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/igor-arrieta-lizarraga
+203,Filippo  Baroncini,2000-8-26,74.0,1.88,IT,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/filippo-baroncini
+204,Isaac del Toro,2003-11-27,64.0,1.8,MX,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/isaac-del-toro
+205,Rafał  Majka,1989-9-12,62.0,1.73,PL,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/rafal-majka
+206,Brandon  McNulty,1998-4-2,69.0,1.83,US,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/brandon-mcnulty
+207,Jay  Vine,1995-11-16,69.0,1.84,AU,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/jay-vine
+208,Adam  Yates,1992-8-7,58.0,1.73,GB,UAE Team Emirates - XRG (WT),team/uae-team-emirates-xrg-2025,rider/adam-yates

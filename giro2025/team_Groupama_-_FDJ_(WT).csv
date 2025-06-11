@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-David  Gaudu,,53.0,1.72,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/david-gaudu
-Sven Erik  Bystrøm,,73.0,1.88,NO,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/sven-erik-bystrom
-Clément  Davy,,73.0,1.83,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/clement-davy
-Kevin  Geniets,,73.0,1.93,LU,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/kevin-geniets
-Lorenzo  Germani,,62.0,1.79,IT,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/lorenzo-germani
-Quentin  Pacher,,62.0,1.79,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/quentin-pacher
-Enzo  Paleni,,65.0,1.8,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/enzo-paleni
-Rémy  Rochas,,51.0,1.64,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/remy-rochas
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+71,David  Gaudu,1996-10-10,53.0,1.72,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/david-gaudu
+72,Sven Erik  Bystrøm,1992-1-21,73.0,1.88,NO,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/sven-erik-bystrom
+73,Clément  Davy,1998-7-17,73.0,1.83,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/clement-davy
+74,Kevin  Geniets,1997-1-9,73.0,1.93,LU,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/kevin-geniets
+75,Lorenzo  Germani,2002-3-3,62.0,1.79,IT,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/lorenzo-germani
+76,Quentin  Pacher,1992-1-6,62.0,1.79,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/quentin-pacher
+77,Enzo  Paleni,2002-5-30,65.0,1.8,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/enzo-paleni
+78,Rémy  Rochas,1996-5-18,51.0,1.64,FR,Groupama - FDJ (WT),team/groupama-fdj-2025,rider/remy-rochas

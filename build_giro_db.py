@@ -2,11 +2,9 @@ import os
 import sqlite3
 import pandas as pd
 
-# Define folder and database paths
 csv_folder = "giro2025"
 db_path = "giro_2025.db"
 
-# Connect to SQLite
 conn = sqlite3.connect(db_path)
 cursor = conn.cursor()
 
@@ -15,8 +13,41 @@ def normalize_spaces(series):
     return series.astype(str).str.replace(r'\s+', ' ', regex=True).str.strip()
 
 
-# Helper: load CSV into SQLite, optionally processing rider info
-def load_csv_to_sql(filename, table_name, process_riders=False):
+# Step 1: Load riders and build lookup
+def load_riders():
+    filepath = os.path.join(csv_folder, "giro2025_all_riders.csv")
+    df = pd.read_csv(filepath)
+    df["name"] = normalize_spaces(df["name"])
+    df["team_name"] = normalize_spaces(df["team_name"])
+
+    if "rider_number" not in df.columns:
+        raise ValueError("Column 'rider_number' is missing in giro2025_all_riders.csv")
+    # Move the column to the first position
+    cols = ["rider_number"] + [col for col in df.columns if col != "rider_number"]
+    df = df[cols]
+
+    cursor.execute("DROP TABLE IF EXISTS riders")
+    cursor.execute("""
+        CREATE TABLE riders (
+            rider_number INTEGER PRIMARY KEY,
+            name TEXT,
+            birthdate TEXT,
+            weight TEXT,
+            height TEXT,
+            nationality TEXT,
+            team_name TEXT,
+            team_url TEXT,
+            rider_url TEXT
+        )
+    """)
+    df.to_sql("riders", conn, if_exists="append", index=False)
+
+    df["name_clean"] = df["name"].str.lower().str.strip()
+    return dict(zip(df["name_clean"], df["rider_number"]))
+
+
+# Step 2: Load race-related tables and join rider_number
+def load_table_with_rider_number(filename, table_name, name_to_number):
     filepath = os.path.join(csv_folder, filename)
     if not os.path.exists(filepath):
         print(f"Skipped (not found): {filename}")
@@ -25,91 +56,70 @@ def load_csv_to_sql(filename, table_name, process_riders=False):
     print(f"Loading {filename} into table: {table_name}")
     df = pd.read_csv(filepath)
 
-    if process_riders:
-        # Normalize name and team_name
-        if "name" in df.columns:
-            df["name"] = normalize_spaces(df["name"])
-        if "team_name" in df.columns:
-            df["team_name"] = normalize_spaces(df["team_name"])
+    if "name" in df.columns:
+        df["name_clean"] = df["name"].astype(str).str.lower().str.strip()
+        df["rider_number"] = df["name_clean"].map(name_to_number)
+        df.rename(columns={"name": "rider_name"}, inplace=True)
+        df.drop(columns=["name_clean"], inplace=True)
 
-        # Extract numeric fields
-        if "weight" in df.columns:
-            df["weight_kg"] = df["weight"].astype(str).str.extract(r"([\d.]+)").astype(float)
-
-        if "height" in df.columns:
-            df["height_m"] = df["height"].astype(str).str.extract(r"([\d.]+)").astype(float)
-
-        # Add rider_id as PRIMARY KEY
-        df.insert(0, "rider_id", range(1, len(df) + 1))
-
-        # Create table manually with correct types
-        cursor.execute("DROP TABLE IF EXISTS riders")
-        cursor.execute("""
-            CREATE TABLE riders (
-                rider_id INTEGER PRIMARY KEY,
-                name TEXT,
-                age INTEGER,
-                weight TEXT,
-                height TEXT,
-                nationality TEXT,
-                team_name TEXT,
-                team_url TEXT,
-                rider_url TEXT,
-                weight_kg REAL,
-                height_m REAL
-            )
-        """)
-        df.to_sql("riders", conn, if_exists="append", index=False)
-        return
-
-    # All other tables: automatic import
     df.to_sql(table_name, conn, if_exists="replace", index=False)
 
 
-# Load riders with processing
-load_csv_to_sql("giro2025_all_riders.csv", "riders", process_riders=True)
+# Step 3: Load team files into unified 'teams' table
+def load_teams(name_to_number):
+    team_rows = []
 
-# Load main race tables
-load_csv_to_sql("giro2025_gc.csv", "gc")
-load_csv_to_sql("giro2025_stages.csv", "stages")
-load_csv_to_sql("giro2025_startlist.csv", "startlist")
+    for fname in os.listdir(csv_folder):
+        if fname.startswith("team_") and fname.endswith(".csv"):
+            path = os.path.join(csv_folder, fname)
+            df = pd.read_csv(path)
 
-# Load results for 21 stages
+            if "name" in df.columns:
+                df["name"] = normalize_spaces(df["name"])
+                df["name_clean"] = df["name"].str.lower().str.strip()
+                df["rider_number"] = df["name_clean"].map(name_to_number)
+                df.rename(columns={"name": "rider_name"}, inplace=True)
+                df.drop(columns=["name_clean"], inplace=True)
+
+            if "team_name" in df.columns:
+                df["team_name"] = normalize_spaces(df["team_name"])
+            else:
+                inferred_team = fname.removeprefix("team_").removesuffix(".csv").replace("_", " ")
+                df["team_name"] = inferred_team
+
+            columns_to_drop = [col for col in ["rider_id", "weight_kg", "height_m", "age"] if col in df.columns]
+            df.drop(columns=columns_to_drop, inplace=True, errors='ignore')
+
+            team_rows.append(df)
+
+    if team_rows:
+        all_teams = pd.concat(team_rows, ignore_index=True)
+        cursor.execute("DROP TABLE IF EXISTS teams")
+        all_teams.to_sql("teams", conn, if_exists="replace", index=False)
+        print(f"Loaded {len(all_teams)} rows into 'teams' table")
+    else:
+        print("No team CSV files found.")
+
+
+# Main workflow
+name_to_number = load_riders()
+
+# Load GC table
+load_table_with_rider_number("giro2025_gc.csv", "gc", name_to_number)
+
+# Load all stage results
 for i in range(1, 22):
-    filename = f"stage_{i}_results.csv"
-    table_name = f"stage_{i}_results"
-    load_csv_to_sql(filename, table_name)
+    load_table_with_rider_number(f"stage_{i}_results.csv", f"stage_{i}_results", name_to_number)
 
-# Load all team_*.csv files into a unified 'teams' table
-team_rows = []
+# Load stages table (doesn't need riders)
+stages_path = os.path.join(csv_folder, "giro2025_stages.csv")
+if os.path.exists(stages_path):
+    pd.read_csv(stages_path).to_sql("stages", conn, if_exists="replace", index=False)
 
-for fname in os.listdir(csv_folder):
-    if fname.startswith("team_") and fname.endswith(".csv"):
-        path = os.path.join(csv_folder, fname)
-        team_df = pd.read_csv(path)
+# Load teams
+load_teams(name_to_number)
 
-        # Normalize rider name and team name
-        if "name" in team_df.columns:
-            team_df["name"] = normalize_spaces(team_df["name"])
-        if "team_name" in team_df.columns:
-            team_df["team_name"] = normalize_spaces(team_df["team_name"])
-        else:
-            # Infer from filename if not in file
-            inferred_team = fname.removeprefix("team_").removesuffix(".csv").replace("_", " ")
-            team_df["team_name"] = inferred_team
-
-        team_rows.append(team_df)
-
-if team_rows:
-    all_teams = pd.concat(team_rows, ignore_index=True)
-
-    # Drop existing table and create new one
-    cursor.execute("DROP TABLE IF EXISTS teams")
-    all_teams.to_sql("teams", conn, if_exists="replace", index=False)
-    print(f"Loaded {len(all_teams)} rows into 'teams' table")
-else:
-    print("No team CSV files found.")
-
+# Finalize
 conn.commit()
 conn.close()
 print(f"SQLite database created: {db_path}")

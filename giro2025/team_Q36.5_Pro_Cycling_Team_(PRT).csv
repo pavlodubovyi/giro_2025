@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Thomas  Pidcock,,58.0,1.7,GB,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/thomas-pidcock
-Xabier Mikel  Azparren,,,,ES,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/xabier-mikel-azparren-irurzun
-Mark  Donovan,,70.0,1.85,GB,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/mark-donovan
-Damien  Howson,,68.0,1.88,AU,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/damien-howson
-Emīls  Liepiņš,,67.0,1.75,LV,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/emils-liepins
-Matteo  Moschetti,,73.0,1.8,IT,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/matteo-moschetti
-Milan  Vader,,63.0,1.73,NL,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/milan-vader
-Nickolas  Zukowsky,,,1.88,CA,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/nickolas-zukowsky
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+131,Thomas  Pidcock,1999-7-30,58.0,1.7,GB,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/thomas-pidcock
+132,Xabier Mikel  Azparren,1999-2-25,,,ES,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/xabier-mikel-azparren-irurzun
+133,Mark  Donovan,1999-4-3,70.0,1.85,GB,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/mark-donovan
+134,Damien  Howson,1992-8-13,68.0,1.88,AU,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/damien-howson
+135,Emīls  Liepiņš,1992-10-29,67.0,1.75,LV,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/emils-liepins
+136,Matteo  Moschetti,1996-8-14,73.0,1.8,IT,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/matteo-moschetti
+137,Milan  Vader,1996-2-18,63.0,1.73,NL,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/milan-vader
+138,Nickolas  Zukowsky,1998-6-3,,1.88,CA,Q36.5 Pro Cycling Team (PRT),team/q365-pro-cycing-team-2025,rider/nickolas-zukowsky

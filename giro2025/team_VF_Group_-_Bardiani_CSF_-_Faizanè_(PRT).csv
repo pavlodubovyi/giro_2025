@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Filippo  Fiorelli,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/filippo-fiorelli
-Luca  Covili,,58.0,1.8,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/luca-covili
-Filippo  Magli,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/filippo-magli2
-Martin  Marcellusi,,62.0,1.72,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/martin-marcellusi
-Alessio  Martinelli,,,1.7,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/alessio-martinelli
-Alessandro  Pinarello,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/alessandro-pinarello
-Manuele  Tarozzi,,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/manuele-tarozzi
-Enrico  Zanoncello,,64.0,1.7,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/enrico-zanoncello
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+211,Filippo  Fiorelli,1994-11-19,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/filippo-fiorelli
+212,Luca  Covili,1997-2-10,58.0,1.8,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/luca-covili
+213,Filippo  Magli,1999-4-29,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/filippo-magli2
+214,Martin  Marcellusi,2000-4-5,62.0,1.72,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/martin-marcellusi
+215,Alessio  Martinelli,2001-4-26,,1.7,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/alessio-martinelli
+216,Alessandro  Pinarello,2003-7-12,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/alessandro-pinarello
+217,Manuele  Tarozzi,1998-6-20,,,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/manuele-tarozzi
+218,Enrico  Zanoncello,1997-8-2,64.0,1.7,IT,VF Group - Bardiani CSF - Faizanè (PRT),team/vf-group-bardiani-csf-faizane-2025,rider/enrico-zanoncello

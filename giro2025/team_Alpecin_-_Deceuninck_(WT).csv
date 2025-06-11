@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Kaden  Groves,,76.0,1.76,AU,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/kaden-groves
-Quinten  Hermans,,62.0,1.74,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/quinten-hermans
-Juri  Hollmann,,70.0,1.84,DE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/juri-hollmann
-Jimmy  Janssens,,74.0,1.83,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/jimmy-janssens
-Timo  Kielich,,73.0,1.85,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/timo-kielich
-Edward  Planckaert,,71.0,1.78,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/edward-planckaert
-Fabio Van den Bossche,,63.0,1.76,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/fabio-van-den-bossche
-Jensen  Plowright,,80.0,1.76,AU,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/jensen-plowright
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+11,Kaden  Groves,1998-12-23,76.0,1.76,AU,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/kaden-groves
+12,Quinten  Hermans,1995-7-29,62.0,1.74,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/quinten-hermans
+13,Juri  Hollmann,1999-8-30,70.0,1.84,DE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/juri-hollmann
+14,Jimmy  Janssens,1989-5-30,74.0,1.83,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/jimmy-janssens
+15,Timo  Kielich,1999-8-5,73.0,1.85,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/timo-kielich
+16,Edward  Planckaert,1995-2-1,71.0,1.78,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/edward-planckaert
+17,Fabio Van den Bossche,2000-9-21,63.0,1.76,BE,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/fabio-van-den-bossche
+18,Jensen  Plowright,2000-5-15,80.0,1.76,AU,Alpecin - Deceuninck (WT),team/alpecin-deceuninck-2025,rider/jensen-plowright

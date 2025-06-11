@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Sam  Bennett,,73.0,1.78,IE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/sam-bennett
-Geoffrey  Bouchard,,63.0,1.78,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/geoffrey-bouchard
-Dries De Bondt,,73.0,1.84,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dries-de-bondt
-Stan  Dewulf,,74.0,1.76,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/stan-dewulf
-Dorian  Godon,,74.0,1.9,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dorian-godon
-Tord  Gudmestad,,82.0,1.88,NO,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/tord-gudmestad
-Nicolas  Prodhomme,,63.0,1.74,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/nicolas-prodhomme
-Andrea  Vendrame,,60.0,1.68,IT,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/andrea-vendrame
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+51,Sam  Bennett,1990-10-16,73.0,1.78,IE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/sam-bennett
+52,Geoffrey  Bouchard,1992-4-1,63.0,1.78,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/geoffrey-bouchard
+53,Dries De Bondt,1991-7-4,73.0,1.84,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dries-de-bondt
+54,Stan  Dewulf,1997-12-20,74.0,1.76,BE,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/stan-dewulf
+55,Dorian  Godon,1996-5-25,74.0,1.9,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/dorian-godon
+56,Tord  Gudmestad,2001-5-8,82.0,1.88,NO,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/tord-gudmestad
+57,Nicolas  Prodhomme,1997-2-1,63.0,1.74,FR,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/nicolas-prodhomme
+58,Andrea  Vendrame,1994-7-20,60.0,1.68,IT,Decathlon AG2R La Mondiale Team (WT),team/decathlon-ag2r-la-mondiale-2025,rider/andrea-vendrame

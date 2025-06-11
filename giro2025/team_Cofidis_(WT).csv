@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Milan  Fretin,,70.0,1.82,BE,Cofidis (WT),team/cofidis-2025,rider/milan-fretin
-Nicolas  Debeaumarché,,75.0,1.89,FR,Cofidis (WT),team/cofidis-2025,rider/nicolas-debeaumarche
-Jonathan  Lastra,,64.0,1.72,ES,Cofidis (WT),team/cofidis-2025,rider/jonathan-lastra
-Jan  Maas,,70.0,1.89,NL,Cofidis (WT),team/cofidis-2025,rider/jan-maas
-Sylvain  Moniquet,,61.0,1.75,BE,Cofidis (WT),team/cofidis-2025,rider/sylvain-moniquet
-Stefano  Oldani,,65.0,1.78,IT,Cofidis (WT),team/cofidis-2025,rider/stefano-oldani
-Anthony  Perez,,70.0,1.9,FR,Cofidis (WT),team/cofidis-2025,rider/anthony-perez
-Sergio  Samitier,,63.0,1.81,ES,Cofidis (WT),team/cofidis-2025,rider/sergio-samitier
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+41,Milan  Fretin,2001-3-19,70.0,1.82,BE,Cofidis (WT),team/cofidis-2025,rider/milan-fretin
+42,Nicolas  Debeaumarché,1998-2-24,75.0,1.89,FR,Cofidis (WT),team/cofidis-2025,rider/nicolas-debeaumarche
+43,Jonathan  Lastra,1993-6-3,64.0,1.72,ES,Cofidis (WT),team/cofidis-2025,rider/jonathan-lastra
+44,Jan  Maas,1996-2-19,70.0,1.89,NL,Cofidis (WT),team/cofidis-2025,rider/jan-maas
+45,Sylvain  Moniquet,1998-1-14,61.0,1.75,BE,Cofidis (WT),team/cofidis-2025,rider/sylvain-moniquet
+46,Stefano  Oldani,1998-1-10,65.0,1.78,IT,Cofidis (WT),team/cofidis-2025,rider/stefano-oldani
+47,Anthony  Perez,1991-4-22,70.0,1.9,FR,Cofidis (WT),team/cofidis-2025,rider/anthony-perez
+48,Sergio  Samitier,1995-8-31,63.0,1.81,ES,Cofidis (WT),team/cofidis-2025,rider/sergio-samitier

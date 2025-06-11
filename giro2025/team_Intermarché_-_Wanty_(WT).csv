@@ -1,9 +1,9 @@
-name,age,weight,height,nationality,team_name,team_url,rider_url
-Louis  Meintjes,,58.0,1.73,ZA,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/louis-meintjes
-Francesco  Busatto,,62.0,1.72,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/francesco-busatto
-Kevin  Colleoni,,66.0,1.8,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/kevin-colleoni
-Simone  Petilli,,65.0,1.78,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/simone-petilli
-Dion  Smith,,67.0,1.79,NZ,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/dion-smith
-Gerben  Thijssen,,74.0,1.74,BE,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/gerben-thijssen
-Taco van der Hoorn,,73.0,1.87,NL,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/taco-van-der-hoorn
-Gijs Van Hoecke,,78.0,1.86,BE,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/gijs-van-hoecke
+rider_number,name,birthdate,weight,height,nationality,team_name,team_url,rider_url
+91,Louis  Meintjes,1992-2-21,58.0,1.73,ZA,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/louis-meintjes
+92,Francesco  Busatto,2002-11-1,62.0,1.72,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/francesco-busatto
+93,Kevin  Colleoni,1999-11-11,66.0,1.8,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/kevin-colleoni
+94,Simone  Petilli,1993-5-4,65.0,1.78,IT,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/simone-petilli
+95,Dion  Smith,1993-3-3,67.0,1.79,NZ,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/dion-smith
+96,Gerben  Thijssen,1998-6-21,74.0,1.74,BE,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/gerben-thijssen
+97,Taco van der Hoorn,1993-12-4,73.0,1.87,NL,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/taco-van-der-hoorn
+98,Gijs Van Hoecke,1991-11-12,78.0,1.86,BE,Intermarché - Wanty (WT),team/intermarche-wanty-2025,rider/gijs-van-hoecke
